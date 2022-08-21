@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+aiofiles
+#must be install your pc tesseract than work on this
+pytesseract 
